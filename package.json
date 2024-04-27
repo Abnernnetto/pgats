@@ -1,0 +1,14 @@
+{
+  "name": "projetoprogramacaoparaautomacaodetestes",
+  "version": "1.0.0",
+  "description": "Projeto PGTS Programacao para Automacao de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Abner Nunes Netto",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
